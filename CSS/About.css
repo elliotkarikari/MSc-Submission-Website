@@ -82,17 +82,6 @@ html {
   bottom: 20px;
 }
 
-.myButton2 {
-  background-color: black;
-  font-family: "Bowlby One SC", cursive;
-  font-size: 120%;
-  width: 25%;
-  border-radius: 15px;
-  cursor: pointer;
-  color: white;
-  align-self: center;
-}
-
 .link_style {
   display: flex;
   justify-content: center;
@@ -112,17 +101,17 @@ html {
   width: 25rem;
 }
 
+.P_text2 {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: large;
+}
+
 .P_text {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: x-large;
 }
 
 .P_text1 {
-  font-family: "Barlow Semi Condensed", sans-serif;
-  font-size: large;
-}
-
-.P_text2 {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: large;
 }

@@ -45,6 +45,7 @@ html {
 
   /* Places middle of box in the center of page*/
   transform: translate(-50%, -50%);
+  gap: 2rem;
 }
 
 .control_1 {
@@ -92,27 +93,6 @@ html {
   width: 2.6rem;
 }
 
-.box__2 {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  width: 65%;
-  align-self: center;
-  padding: 80px;
-  margin: 100px;
-  text-align: center;
-}
-
-.myButton {
-  background-color: white;
-  font-family: "Bowlby One SC", cursive;
-  font-size: 120%;
-  width: 10%;
-  border-radius: 15px;
-  align-self: center;
-  cursor: pointer;
-}
-
 .myButton2 {
   background-color: black;
   font-family: "Bowlby One SC", cursive;
@@ -122,12 +102,16 @@ html {
   cursor: pointer;
   color: white;
   align-self: center;
+  bottom: 100%;
 }
 
 .link_style {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   text-decoration: none;
+  position: relative;
+  top: 685px;
 }
 
 .myButton:hover {
@@ -141,4 +125,13 @@ html {
 .OOP_text {
   align-self: center;
   margin-top: -8%;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: large;
+}
+
+.OOP_text1 {
+  align-self: center;
+  margin-top: -8%;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: large;
 }
