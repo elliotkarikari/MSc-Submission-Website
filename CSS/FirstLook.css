@@ -90,6 +90,32 @@ html {
   cursor: pointer;
 }
 
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.social__icon {
+  height: 3rem;
+  width: 3rem;
+  margin-bottom: 10px;
+}
+
+.social__icon1 {
+  height: 2rem;
+  width: 2.5rem;
+  margin-bottom: 15px;
+}
+
+.social__icon2 {
+  height: 3rem;
+  width: 3rem;
+}
+
 .myButton2 {
   background-color: black;
   font-family: "Bowlby One SC", cursive;
