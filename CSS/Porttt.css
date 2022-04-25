@@ -99,13 +99,13 @@ html {
 }
 
 .myButton2 {
-  background-color: black;
+  background-color: rgb(246, 246, 246);
   font-family: "Bowlby One SC", cursive;
   font-size: 120%;
   width: 12%;
   border-radius: 15px;
   cursor: pointer;
-  color: white;
+  color: rgb(254, 206, 206);
   align-self: center;
   position: fixed;
   bottom: 20px;
