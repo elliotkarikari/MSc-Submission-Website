@@ -7,4 +7,4 @@ The project contains runs a number of iterations: 500
 Contins 2 major Agents: 
 20 agents (Sheep) - They move, eat, store, share and store excess eaten into their environment.
 & 2 wolves. 
-The wolves - move (Chase sheep) and when they are close enought kill sheep. 
+The wolves - move (Chase sheep) and kill sheep when they are close enough. 
