@@ -130,12 +130,8 @@ html {
   width: 25%;
   border-radius: 15px;
   cursor: pointer;
-  align-self: center;
-}
-
-.prop {
   color: white;
-  text-decoration: none;
+  align-self: center;
 }
 
 .link_style {
