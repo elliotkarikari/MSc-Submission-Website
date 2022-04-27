@@ -9,7 +9,9 @@ Picture on about page downloaded from https://64.media.tumblr.com/6d1d6c59c63497
 Text on about page inspired by opening crawl text of every __Starwars__ movie: https://www.inafarawaygalaxy.com/2013/08/the-text-of-every-star-wars-crawl.html
 
 This page is the landing page for my portfolio submission. 
-Click on portfolio or about buttions to explore those pages. 
+Click on portfolio or about buttions to explore those pages.
+Documentation about ABM can be found through links directly underneath logo.
+Links: Agentframework Documentation ... Model Documentation and Environment Documentation
 To return to the home page, click starwars logo on the top left of the screen. 
 Text at top right of screen informs you of the page you are currenty viewing.
 On the portfolio page, hover over and click the picture of __ABM model__ on screen.
