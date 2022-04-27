@@ -12,7 +12,7 @@ This page is the landing page for my portfolio submission.
 Click on portfolio or about buttions to explore those pages. 
 To return to the home page, click starwars logo on the top left of the screen. 
 Text at top right of screen informs you of the page you are currenty viewing.
-From the portfolio page, hover over and click the picture of __ABM model__ on screen.
-This leads to my portfolio repository on github. An Agent based model of sheep in an environment has been created. Find out more by exploring that repository. 
+On the portfolio page, hover over and click the picture of __ABM model__ on screen.
+This leads to my portfolio repository __elliotkarikari.github.io__ on github. An Agent based model of sheep in an environment has been created. Find out more by exploring that repository. 
 Social media tags leads to various social media platforms.
 
