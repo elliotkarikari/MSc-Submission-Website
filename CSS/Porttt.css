@@ -151,3 +151,10 @@ html {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: large;
 }
+
+.linky {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: small;
+  color: rgb(11, 11, 11);
+  text-decoration: none;
+}
