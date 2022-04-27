@@ -10,7 +10,7 @@ Text on about page inspired by opening crawl text of every __Starwars__ movie: h
 
 This page is the landing page for my portfolio submission. 
 Click on portfolio or about buttions to explore those pages.
-ABM documentation was created using PyDoc. Links: __Agentframework Documentation__ ... __Model Documentation__ and __Environment Documentation__ are on the top right of website, directly underneath logo.
+ABM documentation was created using PyDoc. Links to documentation: __Agentframework Documentation__ ... __Model Documentation__ and __Environment Documentation__ are on the top right of website, directly underneath logo.
 To return to the home page, click starwars logo on the top left of the screen. 
 Text at top right of screen informs you of the page you are currenty viewing.
 On the portfolio page, hover over and click the picture of __ABM model__ on screen.
